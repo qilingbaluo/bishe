@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1613797660302'); /* IE9 */
+  src: url('iconfont.eot?t=1613797660302#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPsAAsAAAAACEwAAAOfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqELINZATYCJAMMCwgABCAFhG0HPxsoB8iemjxtE2E2oCYsUCAacsgjqPb77Nnd/w7BAZDn8qeQogA1yahESdZRJrHAQt5QXjbJbkXhJQdtj34KR2vtVerHaZ88fhIRoJ3NLrJ2YqVQNVEb1B/g/xwubYrPb1kuc0zsRb0A4zYGNsbWgMbiO5AT9BvGLmiJuwk06icN2jbdXhMFhTkoEHcjqJ4oZBRKQ3qoF6qKmUW8ATX16RV8BoDXwe/Hb6AY5CS1zBy5c2dmJYbfRN8fEPL/d+whAHM6Hdg8MmYBhTitNOxLR4FZBI2qINMcXylCmsr9/z8BQ+NV1j88kiAqZmozmESy5KKYDpnEjwPWVTMfTlShxk/4McHDkJQh/Qr1Ak0YivK0MHdfKVOu3vD1ubn9dLJeYG447oaiLihi3dyeVjUB0gtEfFy4mcXjFzE+wIS8Plg3MUFCwVR5uS1VbVDSPgB764q/c0PfuCCvXadcFcNcEcQZRf2qjiUmFjjau9nFh8Wb282vAxrjpVTXnhRbWxdU0MnaOipcucw8DhpfLklN4R5VO/nblJWTUIFY25h6WMGL6WchW/Uaadkmaw6Y8hnjY/Dk2FQ9OWUIRcW9O8GOcFwdFAMbqCbP/8/FSGk7aOnFeYy/FbP/6CRzK8b2p5OzZUU6p47fqbrn6WkZuBloyRu/Mj+hJMdN6cnKacurssF/D0Q+PuKDRfVobk4SpbtF/PWLCLlbmAY5+HYO3go1mNiTKsX/fSXakrKXFaEU1DvUUuT5VU+mqu5pGHqPtk70OXW3yRQtm3mzp2GDc4IdyGPvPWNlp7PWAPoSuJ0t1l/+Gz0PPzL86tpfC+UCvrhucge22wV0S6ZeojPznzI7FhSNbSpzURgOwzBmFymbBHQ24k9mQqenw009QKIL9ZwJIanTB1m9UWTBzkJNk1Wo1FuDRjPM5jfpkigtSgOmlQAI7eYgafUZsnbnyIJ9AjW9vkClPQjQaDeYVmwyHhGURomoe2hBYAwRphTEVnulMP2M1Ge6k2YHuDs67osbFGTl8+EFCnSmGJMU0H6yRyDUkRxMwX7ImIR4R76i6bXDPU8N5ORCq67UDpI8UbLFgXQeZAGBYiCCSRKIV9pTKvz8GaJ8jM5pyKtS3iGH66V1oECWfAfkQiA65d1K+yQBqi+Zh+B+oRwSB0yhDjErIIH46m6vkMnTFj7ApwzIoWKhXQXt5UX8/ZZBI/PCHClyFK1PAwyGoe5gK9RnLBMewlQiAQA=') format('woff2'),
+  url('iconfont.woff?t=1613797660302') format('woff'),
+  url('iconfont.ttf?t=1613797660302') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1613797660302#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tableware-full:before {
+  content: "\e8c6";
+}
+
+.icon-help:before {
+  content: "\e626";
+}
+
