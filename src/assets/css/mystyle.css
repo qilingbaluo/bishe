@@ -14,6 +14,8 @@ body, html {
   width: 100%;
 }
 
+.adress-box {}
+
 .menu {
   position: absolute;
   top: 20px;
